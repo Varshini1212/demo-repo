@@ -1,5 +1,5 @@
 # Demo
 
-Basics of Git 
+Basics of git 
 
 Git Commands 
